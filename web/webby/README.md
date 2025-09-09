@@ -14,7 +14,7 @@ After visiting challenge main page:
 
 ![WhiteDukesDZ Logo](demonstration/web-webby-index.png)
 
-We notifce a login page, when that accessing the page source code (`CTRL + U` in your browser):
+We notice a login page, when that accessing the page source code (`CTRL + U` in your browser):
 
 ![WhiteDukesDZ Logo](demonstration/web-webby-source-code.png)
 
